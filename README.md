@@ -122,7 +122,7 @@ Cisco Packet Tracer does not support modern data center technologies such as VXL
 Network and Cybersecurity Student
 
 *   GitHub: github.com/mahmoudbahnsey
-*   LinkedIn: linkedin.com/in/mahmoud-anwer-profile
+*   LinkedIn: www.linkedin.com/in/mahmoud-bahnsey-4731963a6
 
 ## License
 
